@@ -1,0 +1,15 @@
+C:\Users\doria\source\repos\Assignment 2.2.1\bin\Debug\net10.0\Assignment 2.2.1.exe
+C:\Users\doria\source\repos\Assignment 2.2.1\bin\Debug\net10.0\Assignment 2.2.1.deps.json
+C:\Users\doria\source\repos\Assignment 2.2.1\bin\Debug\net10.0\Assignment 2.2.1.runtimeconfig.json
+C:\Users\doria\source\repos\Assignment 2.2.1\bin\Debug\net10.0\Assignment 2.2.1.dll
+C:\Users\doria\source\repos\Assignment 2.2.1\bin\Debug\net10.0\Assignment 2.2.1.pdb
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\Assignment 2.2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\Assignment 2.2.1.AssemblyInfoInputs.cache
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\Assignment 2.2.1.AssemblyInfo.cs
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\Assignment 2.2.1.csproj.CoreCompileInputs.cache
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\Assignment 2.2.1.dll
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\refint\Assignment 2.2.1.dll
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\Assignment 2.2.1.pdb
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\Assignment 2.2.1.genruntimeconfig.cache
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\ref\Assignment 2.2.1.dll
+C:\Users\doria\source\repos\Assignment 2.2.1\obj\Debug\net10.0\Assignme.C20F109E.Up2Date
